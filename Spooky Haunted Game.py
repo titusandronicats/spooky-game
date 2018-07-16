@@ -41,6 +41,18 @@ print ". . ."
 print ""
 print ". . ."
 print ""
+
+print "                    _[]_ "
+print "     __[]___[]___[]/____\_[]_ "
+print "    /______________|[][]|____\ "
+print "    |[][]|[][]|[][]|[][]|[][]|__[]_ "
+print "    |  /\|/\  |  /\|  /\|/\  |_____\ "
+print "    |[]|||||[]|[]|||[]|||||[]|[_]||| "
+print "  =================================== "
+print "  -  -  -  -  -  -  -  -  -  -  -  -  - "
+print "========================================= "
+
+
 print "Let\'s enter this creepy old house. I think it\'s abandoned! What fun!"
 print ""
 
@@ -150,7 +162,7 @@ if enter_seventh == "Y":
 else:
     print "Tooo baaddddd. Play or dieeee!"
 print ""
-print "You must guesss the placceeee where my bones are burrieeddd"
+print "You must guesss the placceeee where my bones are burrieeddd. You only have two chancess..."
 
 # here I'm importing a battleship game from Code Academy
 # but how can I add one more guess?
